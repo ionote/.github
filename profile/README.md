@@ -9,4 +9,4 @@
 - [Npm](https://github.com/ionote/npm-note)
 - [Web protocol](https://github.com/ionote/web-protocol-note)
 - [Rollup](https://github.com/ionote/rollup-note)
-- [PC software and other]https://github.com/ionote/pc-note
+- [PC software and other](https://github.com/ionote/pc-note)
