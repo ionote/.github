@@ -1,5 +1,10 @@
 ## Hi ionote 👋
 
+<ul>
+  <li>
+    <img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/67ff9373d3b14e0a80af4827cb4216b1~tplv-k3u1fbpfcp-zoom-crop-mark:1512:1512:1512:851.awebp" style="width: 100px;height: 200px;"/>
+  </li>
+</ul>
 - [Linux](https://github.com/ionote/linux-note)
 - [Compiler](https://github.com/ionote/compiler-note)
 - [Algo](https://github.com/ionote/algo-note)
