@@ -8,6 +8,7 @@
 - [Linux](https://github.com/ionote/linux-note)
 - [Compiler](https://github.com/ionote/compiler-note)
 - [Algo](https://github.com/ionote/algo-note)
+- [Patterns](https://github.com/ionote/patterns-note)
 - [Mongodb](https://github.com/ionote/mongodb-note)
 - [Vue3](https://github.com/ionote/vue3-note)
 - [Vue2](https://github.com/ionote/vue2-note)
