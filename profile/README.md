@@ -16,3 +16,4 @@
 - [Web protocol](https://github.com/ionote/web-protocol-note)
 - [Rollup](https://github.com/ionote/rollup-note)
 - [PC software and other](https://github.com/ionote/pc-note)
+- [读书笔记（非计算机）](https://github.com/ionote/reader-note)
