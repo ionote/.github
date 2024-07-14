@@ -15,4 +15,3 @@
 - [Npm](https://github.com/ionote/npm-note)
 - [Web protocol](https://github.com/ionote/web-protocol-note)
 - [Rollup](https://github.com/ionote/rollup-note)
-- [读书笔记](https://github.com/ionote/reader-note)
